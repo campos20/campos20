@@ -13,12 +13,12 @@ My work with Spring is most building/maintaining restful projects (but also some
 # World Cube Association
 My work at WCA is open source and you can see it.
 - *React*: I'm the main responsible for [TNoodle's](https://github.com/thewca/tnoodle) user interface. TNoodle is used for generating scrambles for official Rubik's Cube competition (and similar puzzles) across the globe. You can see a live preview [here](https://tnoodle-web.herokuapp.com/scramble). I deployed this to Heroku so people could try without building or running a jar locally, but this version should not be used in production.
-- *Kotlin*: I have some contributions the server side of TNoodle (mostly notable to the PDF and zip generation).
+- *Kotlin*: I have some contributions the server side of TNoodle (mostly notable to the PDF and zip generation). Almost everything else regarding TNoodle's server portion was developed by [Gregor](https://github.com/suushiemaniac).
 - *Spring*: There's a batch (cron job) to check that [WCA's database is healthy](https://github.com/thewca/db-sanity-check/) and neat. It is deployed to AWS and email people that can handle the inconsistencies.
 
 # Personal projects
 
 Most of my projects are also cubing related.
 * [FMC Ranks](https://campos20.github.io/fmc-ranks/#/) is a React project to optimize a hobby I share with some friends. It can compute ranking, generate scrambles for FMC and images. 
-* [Scramble Web API](https://github.com/campos20/scramble-web-api) exposes the [tnoodle-lib](https://github.com/thewca/tnoodle-lib) over the web using React. It was developed to serve the already mentioned FMC Ranks (but is also used in some other places built by other people like [this one](https://fewestmoves.herokuapp.com/dashboard/actual)).
+* [Scramble Web API](https://github.com/campos20/scramble-web-api) exposes the [tnoodle-lib](https://github.com/thewca/tnoodle-lib) over the web using React. It was developed to serve the already mentioned FMC Ranks (but is also used in some other places built by other people like [this one](https://fewestmoves.herokuapp.com/dashboard/actual), envisioned by [Guido](https://github.com/GuidoDipietro)).
 * Another React project, at least this is not cubing related. It [generates random choices ](https://github.com/campos20/mega-sena-gerador)for large Brazilian lottery attempts.
