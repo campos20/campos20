@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-- I’m full stack developer at Arpia Tecnologia.
+- I’m full stack developer at Yandeh.
 - I'm also a front-end developer at [World Cube Association](https://github.com/thewca/) (WCA).
 - And a Math professor at Pitágoras University, Uberlândia.
 
-# Arpia
-Well, all of my work at Arpia is classified and I can't show you what is happening there, but I can tell you with what I work there.
-- *Spring* (in Java)
-- *Angular* (both Angular 8 and AngularJS, in Javascript)
-
-My work with Spring is mostly about building/maintaining restful projects (but also some batch - cron jobs - projects). With Angular, it is mostly about managing a logged area for backoffice operations. Anyways, I have a lot of similar projects here (similar in the sense that they use the same technology).
+# Yandeh
+Well, all of my work at Yandeh is classified and I can't show you what is happening there, but I can tell you with what I work there.
+- *Spring*
+- *React*
 
 # World Cube Association
 My work at WCA is open source and you can see it.
