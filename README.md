@@ -2,7 +2,7 @@
 
 - I’m full stack developer at Yandeh.
 - I'm also a front-end developer at [World Cube Association](https://github.com/thewca/) (WCA).
-- And a Math professor at Pitágoras University, Uberlândia.
+- And a former Math professor.
 
 # Yandeh
 Well, all of my work at Yandeh is classified and I can't show you what is happening there, but I can tell you with what I work there.
@@ -23,4 +23,4 @@ Most of my projects are also cubing related.
 * Another React project, at least this is not cubing related. It [generates random choices ](https://github.com/campos20/mega-sena-gerador)for large Brazilian lottery attempts.
 
 # Teaching
-I teach Mathematics and IT related chairs. Usually, I teach Calculus, Geometry, Statistics and Physics. Also, some Java, web technologies and basic programming lectures.
+I used teach Mathematics and IT related chairs. Usually, I Calculus, Geometry, Statistics and Physics. Also, some Java, web technologies and basic programming lectures.
