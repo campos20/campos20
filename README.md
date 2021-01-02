@@ -23,4 +23,4 @@ Most of my projects are also cubing related.
 * Another React project, at least this is not cubing related. It [generates random choices ](https://github.com/campos20/mega-sena-gerador)for large Brazilian lottery attempts.
 
 # Teaching
-I used teach Mathematics and IT related chairs. Usually, I Calculus, Geometry, Statistics and Physics. Also, some Java, web technologies and basic programming lectures.
+I used to teach Mathematics and IT related chairs. Usually, I Calculus, Geometry, Statistics and Physics. Also, some Java, web technologies and basic programming lectures (UNIUBE, Pitágoras, and UFU).
