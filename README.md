@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-- I’m full stack developer at Yandeh.
-- I'm also a front-end developer at [World Cube Association](https://github.com/thewca/) (WCA).
+- I’m full cycle developer at Yandeh.
+- I'm also a front cycle developer at [World Cube Association](https://github.com/thewca/) (WCA).
 - And a former Math professor.
 
 # Yandeh
-Well, all of my work at Yandeh is classified and I can't show you what is happening there, but I can tell you with what I work there.
+Well, all of my work at Yandeh is classified and I can't show you what is happening there, but I can tell you what I work with there.
 - *Spring*
 - *React*
+- *AWS*
+- *Python*
+- *Terraform*
 
 # World Cube Association
 My work at WCA is open source and you can see it.
