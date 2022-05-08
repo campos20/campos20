@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m full cycle developer at Yandeh.
-- I'm also a front cycle developer at [World Cube Association](https://github.com/thewca/) (WCA).
+- I'm also a full cycle developer at [World Cube Association](https://github.com/thewca/) (WCA).
 - And a former Math professor.
 
 # Yandeh
