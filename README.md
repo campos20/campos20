@@ -4,13 +4,15 @@
 - I'm also a full cycle developer for this wonderful open source project, [World Cube Association](https://github.com/thewca/) (WCA).
 - And a former Math professor.
 
-# Yandeh
-Well, all of my work at Yandeh is classified and I can't show you what is happening there, but I can tell you what I work with there.
-- *Spring*
-- *React*
-- *AWS*
+These are my main technologies
+- *Spring Boot (Java)*
+- *React (Javascript/Typescript)*
+- *Node*
 - *Python*
+- *AWS*
 - *Terraform*
+
+  I also worked with other technologies in the past.
 
 # World Cube Association
 My work at WCA is open source and you can see it.
