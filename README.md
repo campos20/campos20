@@ -24,13 +24,13 @@ Every project I build is provisioned with Terraform on AWS (Lambda, ECS, RDS, S3
 
 ## What I've built or worked on
 
-**Financial services platform**
-Full-stack features across complex, high-compliance banking workflows. Established company-wide standards for AI adoption and test automation integrated with Jira and GitHub Actions.
-`Spring Boot` `React` `React Native` `Playwright` `Cypress` `Jira` `Apache Camel` `GraphQL` `MongoDB`
-
 **Music licensing & audio platform**
 Serverless AI media pipelines — mastering, feature extraction, generative image/video on Python AWS/Runpod/GCP. NestJS/Prisma API, React 19 web app, Stripe payments, Cognito auth, full Playwright E2E suite. Multi-cloud infrastructure (AWS + GCP) via Terraform.
 `NestJS` `FastAPI` `Terraform` `AWS` `GCP` `Prisma` `SQS` `Python` `React` `Stripe` `Cognito` `Postgres`
+
+**Financial services platform**
+Full-stack features across complex, high-compliance banking workflows. Established company-wide standards for AI adoption and test automation integrated with Jira and GitHub Actions.
+`Spring Boot` `React` `React Native` `Playwright` `Cypress` `Jira` `Apache Camel` `GraphQL` `MongoDB`
 
 **High-throughput payments & product catalogue API**
 ~2,000 commits to the core Java payments API. Event-driven architecture on Kinesis/SQS, ECS deployments, full Terraform IaC, React/TypeScript admin portal, Python partner-integration service (sole author).
@@ -43,6 +43,10 @@ Serverless AI media pipelines — mastering, feature extraction, generative imag
 **People & resource management systems**
 Multiple full-stack applications for workforce allocation and scheduling. Replaced manual infrastructure with IaC and CI/CD from scratch.
 `Java` `React` `AWS` `GitHub Actions` `MariaDB`
+
+**Service order management platform**
+Full-stack platform for creating and managing service orders across web and mobile. Spring Boot API on ECS Fargate with Postgres/Flyway, React web app (Vite, Ant Design), and an offline-first Expo/React Native app — all consuming type-safe clients generated from the OpenAPI spec. Shared Terraform infrastructure includes a self-hosted Keycloak on ECS and a serverless Python job that powers down idle AWS resources outside working hours in non-prod environment.
+`Spring Boot` `React` `React Native` `Expo` `TypeScript` `Terraform` `AWS` `ECS` `Keycloak` `Postgres`
 
 **Countdown SaaS**
 Solo-built freemium SaaS: shareable public countdown pages with live timer, background photo, and story section. FastAPI on Lambda, React frontend, Stripe one-time payments, Cognito auth — product, architecture, infra, and CI/CD all mine.
