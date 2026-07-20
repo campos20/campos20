@@ -78,7 +78,7 @@ Authored competitive programming problems on **SPOJ** and **Beecrowd** used by t
 ## Background
 
 M.Sc. in Mathematics — Universidade Federal de Uberlândia (2014).
-Former competitive speedcuber. I approach systems the same way I approach proofs: find the invariants, eliminate the edge cases, make it hold.
+Former competitive speedcuber (1 South American record, 1 South American title, 2 South American podiums, 4 National Titles, 8 National podiums).
 
 ---
 
