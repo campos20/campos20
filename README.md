@@ -84,6 +84,8 @@ Authored competitive programming problems on **SPOJ** and **Beecrowd** used by t
 M.Sc. in Mathematics — Universidade Federal de Uberlândia (2014).
 Former competitive speedcuber (1 South American record, 1 South American title, 2 South American podiums, 4 National Titles, 8 National podiums).
 
+Musician, former math teacher (10 years). I also create content about programming, math, music, cube.
+
 ---
 
 ## Practices I bring to every codebase
