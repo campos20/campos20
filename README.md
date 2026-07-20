@@ -1,32 +1,90 @@
-### Hi there 👋
+# Full-stack engineer · Math background · Product-minded
 
-- I’m full cycle developer.
-- I'm also a full cycle developer for this wonderful open source project, [World Cube Association](https://github.com/thewca/) (WCA).
-- And a former Math professor.
+I build products end to end: from UI decisions down to cloud infrastructure. Comfortable shipping across language ecosystems and treating infra as a first-class part of the product.
 
-These are my main technologies
-- *Spring Boot (Java)*
-- *React (Javascript/Typescript)*
-- *Node*
-- *Python*
-- *AWS*
-- *Terraform*
+Every project I build is provisioned with Terraform on AWS (Lambda, ECS, RDS, S3, CloudFront, Cognito, SQS, SES) across isolated dev/staging/prod environments with automated GitHub Actions deploys. I also have production experience with GCP and Azure.
 
-  I also worked with other technologies in the past.
+---
 
-# World Cube Association
-My work at WCA is open source and you can see it.
-- *Statistics*: The [Statistics Project]([url](http://statistics.worldcubeassociation.org/)) is the project I liked most working on. The overall process was very pleasant, yet challenging. Statistics is a spin-off of the [main website]([url](https://www.worldcubeassociation.org/)) (which is in Ruby) and it uses a lot of modern technologies: Spring Boot (Java), React (Typescript), AWS (ECS, Fargate, CodeDeploy, Lambda, Batch, Api Gateway), Python. I had a lot of freedom to work on that, its main purpose is to gather and pre calculate interesting data over the WCA's database.
-- *React*: I'm the main responsible for [TNoodle's](https://github.com/thewca/tnoodle) user interface. TNoodle is used for generating scrambles for official Rubik's Cube competition (and similar puzzles) across the globe. You can see a live preview [here](https://tnoodle-web.herokuapp.com/scramble). I deployed this to Heroku so people could try without building or running a jar locally, but this version should not be used in production.
-- *Kotlin*: I have some contributions the server side of TNoodle (most notably to the PDF and zip generation). Almost everything else regarding TNoodle's server portion was developed by [Gregor](https://github.com/suushiemaniac).
-- *Spring*: There's a batch (cron job) to check that [WCA's database is healthy](https://github.com/thewca/db-sanity-check/) and neat. It is deployed to AWS and email people that can handle the inconsistencies.
+## Stack
 
-# Personal projects
+**Backend**
+`Python` `FastAPI` `Django` `Java` `Spring Boot` `Node.js` `NestJS` `GraphQL`
 
-Most of my projects are also cubing related.
-* [FMC Ranks](https://campos20.github.io/fmc-ranks/#/) is a React project to optimize a hobby I share with some friends. It can compute ranking, generate scrambles for FMC and images. 
-* [Scramble Web API](https://github.com/campos20/scramble-web-api) exposes the [tnoodle-lib](https://github.com/thewca/tnoodle-lib) over the web using React. It was developed to serve the already mentioned FMC Ranks (but is also used in some other places built by other people like [this one](https://fewestmoves.herokuapp.com/dashboard/actual), envisioned by [Guido](https://github.com/GuidoDipietro)).
-* Another React project, at least this is not cubing related. It [generates random choices ](https://github.com/campos20/mega-sena-gerador)for large Brazilian lottery attempts.
+**Frontend & Mobile**
+`React` `Next.js` `React Native` `TypeScript`
 
-# Teaching
-I used to teach Mathematics and IT related chairs. Usually, I Calculus, Geometry, Statistics and Physics. Also, some Java, web technologies and basic programming lectures (UNIUBE, Pitágoras, and UFU).
+**Infrastructure & DevOps**
+`AWS` `GCP` `Terraform` `Docker` `GitHub Actions` `ECS Fargate` `Lambda` `SQS` `RDS` `Cognito` `CloudFront` `Cloud Run` `SES` `S3` `Route 53` `CloudWatch` `Secrets Manager`
+
+**Data & Testing**
+`PostgreSQL` `Prisma` `MariaDB` `Playwright` `Cypress`
+
+---
+
+## What I've built or worked on
+
+**Financial services platform**
+Full-stack features across complex, high-compliance banking workflows. Established company-wide standards for AI adoption and test automation integrated with Jira and GitHub Actions.
+`Spring Boot` `React` `React Native` `Playwright` `Cypress` `Jira` `Apache Camel` `GraphQL` `MongoDB`
+
+**Music licensing & audio platform**
+Serverless AI media pipelines — mastering, feature extraction, generative image/video on Python AWS/Runpod/GCP. NestJS/Prisma API, React 19 web app, Stripe payments, Cognito auth, full Playwright E2E suite. Multi-cloud infrastructure (AWS + GCP) via Terraform.
+`NestJS` `FastAPI` `Terraform` `AWS` `GCP` `Prisma` `SQS` `Python` `React` `Stripe` `Cognito` `Postgres`
+
+**High-throughput payments & product catalogue API**
+~2,000 commits to the core Java payments API. Event-driven architecture on Kinesis/SQS, ECS deployments, full Terraform IaC, React/TypeScript admin portal, Python partner-integration service (sole author).
+`Java` `Spring Boot` `AWS` `Terraform` `Kinesis` `SQS` `ECS` `React` `Postgres`
+
+**Talent acquisition platform**
+~30 services across Java/Kotlin, Node/TypeScript, Python/Django, Ruby, and .NET. Serverless Slack bots on AWS, OpenAPI-driven REST APIs. Sole author and maintainer on several services end-to-end. Also conducted technical interviews across C#, Java, React, Python, QA, DevOps, and Mobile.
+`Spring Boot` `NestJS` `Django` `AWS` `Terraform` `Airtable` `Slack`
+
+**People & resource management systems**
+Multiple full-stack applications for workforce allocation and scheduling. Replaced manual infrastructure with IaC and CI/CD from scratch.
+`Java` `React` `AWS` `GitHub Actions` `MariaDB`
+
+**Countdown SaaS**
+Solo-built freemium SaaS: shareable public countdown pages with live timer, background photo, and story section. FastAPI on Lambda, React frontend, Stripe one-time payments, Cognito auth — product, architecture, infra, and CI/CD all mine.
+`FastAPI` `Lambda` `React` `Stripe` `Terraform` `Cognito`
+
+---
+
+## Open source
+
+**World Cube Association** — volunteer engineer since 2016
+The WCA governs all official Rubik's cube competitions worldwide. Contributed to scramble generation software used in every official competition, built a statistics portal processing millions of entries, added Terraform IaC to existing manual infrastructure, and revamped the legacy web interface to React.
+`Java` `Python` `React` `Ruby on Rails` `AWS` `Terraform`
+
+Authored competitive programming problems on **SPOJ** and **Beecrowd** used by thousands of developers.
+
+- SPOJ
+  - [God Number is 20 (Rubik)](https://www.spoj.com/problems/GODNIS20/)
+  - [Constructible Regular Polygons](https://www.spoj.com/problems/POLCONST/)
+  - [Tone Transposition](https://www.spoj.com/problems/TONES/)
+  - [ASCII 1](https://www.spoj.com/problems/ASCII1/)
+  - [First Char](https://www.spoj.com/problems/FSTCHAR/)
+  - [Print it All](https://www.spoj.com/problems/PRINTITALL/)
+
+- Beecrowd
+  - [CPF 1](https://judge.beecrowd.com/pt/problems/view/1769)
+  - [CPF 2](https://judge.beecrowd.com/pt/problems/view/1786)
+  - [Number to Name](https://judge.beecrowd.com/pt/problems/view/1846)
+  - [Name to Number](https://judge.beecrowd.com/pt/problems/view/2097)
+  - [Constructible Regular Polygons](https://judge.beecrowd.com/pt/problems/view/1577)
+
+---
+
+## Background
+
+M.Sc. in Mathematics — Universidade Federal de Uberlândia (2014).
+Former competitive speedcuber. I approach systems the same way I approach proofs: find the invariants, eliminate the edge cases, make it hold.
+
+---
+
+## Practices I bring to every codebase
+
+- Type-safe API contracts — frontend clients generated from OpenAPI specs so backend changes surface as compile errors
+- Pluggable auth that runs against Keycloak locally and Cognito in production
+- Infrastructure reproducible from day one, not clicked together in a console
+- AI-assisted workflows in regulated environments — established adoption standards at scale
