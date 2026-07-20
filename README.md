@@ -45,7 +45,7 @@ Multiple full-stack applications for workforce allocation and scheduling. Replac
 `Java` `React` `AWS` `GitHub Actions` `MariaDB`
 
 **Service order management platform**
-Full-stack platform for creating and managing service orders across web and mobile. Spring Boot API on ECS Fargate with Postgres/Flyway, React web app (Vite, Ant Design), and an offline-first Expo/React Native app — all consuming type-safe clients generated from the OpenAPI spec. Shared Terraform infrastructure includes a self-hosted Keycloak on ECS and a serverless Python job that powers down idle AWS resources outside working hours in non-prod environment.
+Full-stack platform for creating and managing service orders across web and mobile. Spring Boot API on ECS Fargate with Postgres/Flyway, React web app (Vite, Ant Design), and an offline-first Expo/React Native app — all consuming type-safe clients generated from the OpenAPI spec. Shared Terraform infrastructure includes a self-hosted Keycloak on ECS and a serverless Python job that powers down idle AWS resources outside working hours in non-prod environments.
 `Spring Boot` `React` `React Native` `Expo` `TypeScript` `Terraform` `AWS` `ECS` `Keycloak` `Postgres`
 
 **Countdown SaaS**
@@ -84,13 +84,13 @@ Authored competitive programming problems on **SPOJ** and **Beecrowd** used by t
 M.Sc. in Mathematics — Universidade Federal de Uberlândia (2014).
 Former competitive speedcuber (1 South American record, 1 South American title, 2 South American podiums, 4 National Titles, 8 National podiums).
 
-Musician, former math teacher (10 years). I also create content about programming, math, music, cube.
+Musician, former math teacher (10 years). I also create content about programming, math, music, and speedcubing.
 
 ---
 
 ## Practices I bring to every codebase
 
 - Type-safe API contracts — frontend clients generated from OpenAPI specs so backend changes surface as compile errors
-- Pluggable auth that runs against Keycloak locally and Cognito in production
+- Pluggable auth — Keycloak or Cognito depending on the project's needs
 - Infrastructure reproducible from day one, not clicked together in a console
 - AI-assisted workflows in regulated environments — established adoption standards at scale
