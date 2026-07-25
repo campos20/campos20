@@ -25,11 +25,11 @@ Every project I build is provisioned with Terraform on AWS (Lambda, ECS, RDS, S3
 ## What I've built or worked on
 
 **Music licensing & audio platform**
-Serverless AI media pipelines — mastering, feature extraction, generative image/video on Python AWS/Runpod/GCP. NestJS/Prisma API, React 19 web app, Stripe payments, Cognito auth, full Playwright E2E suite. Multi-cloud infrastructure (AWS + GCP) via Terraform.
+Serverless AI media pipelines — mastering, feature extraction, generative image/video on Python AWS/Runpod/GCP. NestJS/Prisma API, React web app, Stripe payments, Cognito auth, full Playwright E2E suite. Multi-cloud infrastructure (AWS + GCP) via Terraform.
 `NestJS` `FastAPI` `Terraform` `AWS` `GCP` `Prisma` `SQS` `Python` `React` `Stripe` `Cognito` `Postgres`
 
 **Financial services platform**
-Full-stack features across complex, high-compliance banking workflows. Established company-wide standards for AI adoption and test automation integrated with Jira and GitHub Actions.
+Delivered features across complex financial services environment. Module-federated React app running mostly in SSR mode, mobile application app with React Native, SSO screen customizations, automation tests and wrote multiple internal tools to improve developer productivity. Also introduced multiple AI assisted workflows. Multi-cloud environment.
 `Spring Boot` `React` `React Native` `Playwright` `Cypress` `Jira` `Apache Camel` `GraphQL` `MongoDB`
 
 **High-throughput payments & product catalogue API**
@@ -87,10 +87,3 @@ Former competitive speedcuber (1 South American record, 1 South American title, 
 Musician, former math teacher (10 years). I also create content about programming, math, music, and speedcubing.
 
 ---
-
-## Practices I bring to every codebase
-
-- Type-safe API contracts — frontend clients generated from OpenAPI specs so backend changes surface as compile errors
-- Pluggable auth — Keycloak or Cognito depending on the project's needs
-- Infrastructure reproducible from day one, not clicked together in a console
-- AI-assisted workflows in regulated environments — established adoption standards at scale
