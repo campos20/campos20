@@ -20,14 +20,16 @@ I build products end to end: from UI decisions down to cloud infrastructure. Com
 ![React](https://img.shields.io/badge/React-2E4E56?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-562E2E?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-2E4E56?style=flat-square&logo=react&logoColor=white)
 
 **Infrastructure & DevOps**
+
 ![AWS](https://img.shields.io/badge/AWS-56462E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-2E3D56?style=flat-square&logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-422E56?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E4156?style=flat-square&logo=githubactions&logoColor=white)
 
 **Data & Testing**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3856?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2E3D56?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2E3856?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-2E4D56?style=flat-square&logo=mariadb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E5630?style=flat-square) ![Cypress](https://img.shields.io/badge/Cypress-2E5646?style=flat-square&logo=cypress&logoColor=white)
 
-**Previous/rusty Stack (worked with it at some point)**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3856?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2E3D56?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2E3856?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-2E4D56?style=flat-square&logo=mariadb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E5630?style=flat-square)
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-562E2F?style=flat-square&logo=rubyonrails&logoColor=white) ![C#](https://img.shields.io/badge/C%23-2E562E?style=flat-square&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-2E562E?style=flat-square&logo=kotlin&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-2E562E?style=flat-square&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2E562E?style=flat-square&logo=microsoftazure&logoColor=white)
+**Previous/rusty stack (worked with it at some point)**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-562E2F?style=flat-square&logo=rubyonrails&logoColor=white) ![C#](https://img.shields.io/badge/C%23-2E562E?style=flat-square&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-2E562E?style=flat-square&logo=kotlin&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-2E562E?style=flat-square&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2E562E?style=flat-square&logo=microsoftazure&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-2E5646?style=flat-square&logo=cypress&logoColor=white)
 
 ---
 
