@@ -2,23 +2,32 @@
 
 I build products end to end: from UI decisions down to cloud infrastructure. Comfortable shipping across language ecosystems and treating infra as a first-class part of the product.
 
-Every project I build is provisioned with Terraform on AWS (Lambda, ECS, RDS, S3, CloudFront, Cognito, SQS, SES) across isolated dev/staging/prod environments with automated GitHub Actions deploys. I also have production experience with GCP and Azure.
-
 ---
 
-## Stack
+## Current Stack
 
 **Backend**
-![Python](https://img.shields.io/badge/Python-2E4456?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-2E5652?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-2E5647?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/Java-56462E?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3E562E?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-2E562E?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-562E37?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-562E49?style=flat-square&logo=graphql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-2E4456?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2E5652?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-2E5647?style=flat-square&logo=django&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-56462E?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3E562E?style=flat-square&logo=springboot&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-2E562E?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-562E37?style=flat-square&logo=nestjs&logoColor=white) ![express.js](https://img.shields.io/badge/express.js-2E562E?style=flat-square&logo=express&logoColor=white)
 
 **Frontend & Mobile**
-![React](https://img.shields.io/badge/React-2E4E56?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-562E2E?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-2E4E56?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-2E4156?style=flat-square&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-2E4E56?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-562E2E?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-2E4E56?style=flat-square&logo=react&logoColor=white)
 
 **Infrastructure & DevOps**
-![AWS](https://img.shields.io/badge/AWS-56462E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-2E3D56?style=flat-square&logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-422E56?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2E4556?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E4156?style=flat-square&logo=githubactions&logoColor=white) ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-56462E?style=flat-square) ![Lambda](https://img.shields.io/badge/Lambda-56462E?style=flat-square) ![SQS](https://img.shields.io/badge/SQS-56462E?style=flat-square) ![RDS](https://img.shields.io/badge/RDS-56462E?style=flat-square) ![Cognito](https://img.shields.io/badge/Cognito-56462E?style=flat-square) ![CloudFront](https://img.shields.io/badge/CloudFront-56462E?style=flat-square) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-2E3D56?style=flat-square&logo=googlecloud&logoColor=white) ![SES](https://img.shields.io/badge/SES-56462E?style=flat-square) ![S3](https://img.shields.io/badge/S3-56462E?style=flat-square) ![Route 53](https://img.shields.io/badge/Route_53-56462E?style=flat-square) ![CloudWatch](https://img.shields.io/badge/CloudWatch-56462E?style=flat-square) ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-56462E?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-56462E?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-2E3D56?style=flat-square&logo=googlecloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-422E56?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2E4156?style=flat-square&logo=githubactions&logoColor=white)
 
 **Data & Testing**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3856?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2E3D56?style=flat-square&logo=prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-2E4D56?style=flat-square&logo=mariadb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E5630?style=flat-square) ![Cypress](https://img.shields.io/badge/Cypress-2E5646?style=flat-square&logo=cypress&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3856?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2E3D56?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-2E3856?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-2E4D56?style=flat-square&logo=mariadb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E5630?style=flat-square) ![Cypress](https://img.shields.io/badge/Cypress-2E5646?style=flat-square&logo=cypress&logoColor=white)
+
+**Previous/rusty Stack (worked with it at some point)**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-562E2F?style=flat-square&logo=rubyonrails&logoColor=white) ![C#](https://img.shields.io/badge/C%23-2E562E?style=flat-square&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-2E562E?style=flat-square&logo=kotlin&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-2E562E?style=flat-square&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-2E562E?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -55,6 +64,16 @@ Solo-built freemium SaaS: shareable public countdown pages with live timer, back
 ---
 
 ## Open source
+
+**Math related projects**
+
+- [Poincaré Disk Web](https://github.com/campos20/poincare-disk-web) — interactive Poincaré disk model in the browser, with hyperbolic geometry. Built with React, TypeScript, and Vite.
+
+**Music related projects**
+
+- [Virtual VS](https://github.com/campos20/virtual-vs) - An open-source multitrack backing-track player for live musicians - a phone replacing the laptop + audio interface + DAW rig (a "VS"/Playback-style setup)
+
+- [Segue List](https://github.com/campos20/segue-list/) - A setlist app for musicians: write your songs' lyrics once, group them into setlists, and read them on a phone or tablet during a show
 
 **World Cube Association** — volunteer engineer since 2016
 The WCA governs all official Rubik's cube competitions worldwide. Contributed to scramble generation software used in every official competition, built a statistics portal processing millions of entries, added Terraform IaC to existing manual infrastructure, and revamped the legacy web interface to React.
